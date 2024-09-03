@@ -8,6 +8,7 @@ import Vans from "./pages/Vans"
 import Nav from "./components/Nav"
 import Footer from "./components/Footer"
 
+import './server.js'
 
 function App() {
     return (
